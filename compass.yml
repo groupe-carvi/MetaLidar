@@ -1,0 +1,16 @@
+name: MetaLidar
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/34499704-b446-4fb3-a16e-f685da58cb2b
+description: Unreal Engine 5 based LiDAR simulation plugin
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/MetaLidar
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
